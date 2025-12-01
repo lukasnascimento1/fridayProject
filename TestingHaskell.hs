@@ -1,0 +1,1 @@
+somaLista :: [Int] -> Int
